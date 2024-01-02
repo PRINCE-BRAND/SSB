@@ -20,7 +20,7 @@
 - ### Run Script
 - 
 - `cd`
-- `rm -rf Xyz`
+- `rm -rf SSB`
 - `git clone https://github.com/PRINCE-BRAND/SSB.git`
 - `cd SSB`
 - `python CRACK.py`
